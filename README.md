@@ -26,3 +26,7 @@ This dashboard traces where learners drop off, and who actually finishes.
 **Data:** edX MITx & HarvardX 2013 dataset (Tableau Public sample)  
 **Tools:** Tableau Public  
 **[View the dashboard on Tableau Public →](https://public.tableau.com/app/profile/urmimala.mandal/viz/TheRealCostOfFinishingOnlineFreeCourseatedX/Dashboard3)**
+
+
+---
+
